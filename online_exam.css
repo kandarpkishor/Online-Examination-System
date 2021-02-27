@@ -1,0 +1,215 @@
+
+			body
+			{
+				//background-color:lightgrey;
+				//background-color:19726B;
+				background-color:F0F4F5;
+				margin:0px;
+				padding:0px;
+			}
+			.header
+			{
+				width:100%;
+				height:100px;
+				//background:purple;
+				background:white;
+				//background-image:url(images/head.jpg);
+				//border:1px solid red;
+			}
+			.logo
+			{
+				width:13%;
+				height:100px;
+				background:transparent;
+				float:left;
+				border:0px solid white;
+			}
+			.head_title
+			{
+				width:60%;
+				height:100px;
+				background:transparent;
+				float:left;
+				border:0px solid white;
+				font-size:30px;
+			}
+			.user_panel
+			{
+				width:20%;
+				height:100px;
+				background:transparent;
+				float:left;
+				border:0px solid white;
+				font-size:30px;
+			}
+			.user_pic
+			{
+				width:80px;
+				height:95px;
+				background:transparent;
+				float:left;
+				border:1px solid red;
+				font-size:30px;
+			}
+			.user_name
+			{
+				width:180px;
+				height:50px;
+				background:transparent;
+				float:left;
+				//border:1px solid red;
+				font-size:20px;
+				margin-top:20px;
+			}
+			.main
+			{
+				max-width:100%;
+				width:100%;
+				height:530px;
+				//border:1px solid blue;
+				margin:0px;
+				padding:0px;
+				
+			}
+			.left_panel
+			{
+				width:70%;
+				height:100%;
+				background:white;
+				border-right:2px solid black;
+				float:left;
+			}
+			.q_section
+			{
+				width:95%;
+				height:98%;
+				background:white;
+				border:1px solid purple;
+				float:left;
+				box-shadow:0px 0px 5px 5px grey;
+				margin:10px;
+				padding:10px;
+				
+			}
+			.question_section
+			{
+				float:left; 
+				height:90%;
+				//margin-top:10px; 
+				margin-left:30px;
+				border:1px solid black;
+				padding:10px;
+				//overflow-y:auto;
+			}
+			.nav_panel
+			{
+				width:100%;
+				height:30px;
+				background:white;
+				text-align:center;
+				//border:1px solid red;
+				float:left;
+				margin-top:10px;
+			}
+			.right_panel
+			{
+				width:29.6%;
+				height:100%;
+				background:white;
+				//border:1px solid red;
+				float:left;
+				text-align:center;
+			}
+			.a_box
+			{
+				height:300px;
+				width:85%;
+				margin:10px;
+				padding:10px;
+				border:10px solid white;
+				float:left;
+				box-shadow:0px 0px 5px 5px grey;
+				text-align:center;
+				//color:white;
+				overflow:scroll;
+			}
+			.q_no1
+			{
+				//height:30px;
+				//width:30px;
+				padding: 4px;
+				//background:green;
+				border:1px solid blue;
+				border-radius:50px;
+				text-align:center;
+				//margin-right:5px;
+				//margin-top:5px;
+				margin:5px;
+				float:left;
+				font: 20px Arial, sans-serif;
+			}
+			.q_no
+			{
+				border-radius: 50%;
+				//width: 25px;
+				height: 25px;
+				padding: 4px;
+				background: #fff;
+				border: 2px solid #666;
+				color: #666;
+				text-align: center;
+				font: 24px Arial, sans-serif;
+				margin:5px;
+				float:left;
+				cursor:pointer;
+			}
+			.summary_box
+			{
+				height:20px;
+				margin:5px;
+				margin-left:15px;
+				padding:5px;
+				width:90%;background-color:#009933; 
+				//border:1px solid #004d1a;float:left;
+				border-radius:5px;
+				color:white;
+				font-weight:bold;
+				cursor:pointer;
+				text-align:left;
+				
+			}
+			.footer
+			{
+				width:100%;
+				height:50px;
+				background-color:D603C0;
+				//border:1px solid black;
+				float:left;
+				text-align:center;
+				padding-top:10px;
+			}
+			.mrk_rvw, .clr_rsp, .sv_nxt 
+			{
+				height:30px;
+				width:150px;
+				border-radius:5px;
+				color:white;
+				font-weight:bold;
+				cursor:pointer;
+				
+			}
+			.exam_riban{
+				background-color:green;
+				color:white;
+				width:100%;
+				border:1px solid black;
+				padding:5px;
+				height:20px;
+				
+			}
+			.exam_title{
+				margin-left:50px;
+				float:left;
+				background-color:green;
+				
+			}
